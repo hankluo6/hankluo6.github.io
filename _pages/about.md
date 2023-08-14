@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>2136195049</p>
+    <p>(+1) 2136195049</p>
     <p>Urbana, IL 61801</p>
 
 news: true  # includes a list of news items
