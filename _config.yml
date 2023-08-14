@@ -426,3 +426,4 @@ jsonresume:
   - languages
   - interests
   - references
+  - jekyll-pdf-embed
